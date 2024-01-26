@@ -6,3 +6,4 @@ Search with google and has shortcuts to Google Docs, Sheets, Slides, and Youtube
 ## Credits
 @psyclownyt - URL encoding system/inspiration [Check out his own one!](https://github.com/PSYclownYT/scratch-os)\
 [Turbowarp](https://turbowarp.org/) - Used to create this project
+All background images used go to their respective owners/copyright.
