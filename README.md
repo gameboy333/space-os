@@ -1,4 +1,5 @@
-# space-os
+![Logo containing a blue planet like Saturn, with yellow stars and the word OS](https://github.com/AGameboyIsNotAvaliable/space-os/blob/main/media/spaceoslogo.png/?raw=true)
+# Space OS V2
 A custom new tab page built with Turbowarp. Might include some lobotomies.
 ## Features
 Search with google and has shortcuts to Google Docs, Sheets, Slides, and Youtube.\
@@ -6,4 +7,4 @@ Search with google and has shortcuts to Google Docs, Sheets, Slides, and Youtube
 ## Credits
 @psyclownyt - URL encoding system/inspiration [Check out his own one!](https://github.com/PSYclownYT/scratch-os)\
 [Turbowarp](https://turbowarp.org/) - Used to create this project\
-All background images used go to their respective owners/copyright.
+All background images used go to their respective owners and copyright.
