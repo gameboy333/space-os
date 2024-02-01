@@ -1,4 +1,4 @@
-![Logo containing a blue planet like Saturn, with yellow stars and the word OS](https://github.com/AGameboyIsNotAvaliable/space-os/blob/main/media/spaceoslogo.png/?raw=true)
+![Logo containing a blue planet like Saturn, with yellow stars and the word OS](https://github.com/AGameboyIsNotAvaliable/space-os/blob/main/media/spaceoslogov2.png/?raw=true)
 # Space OS V2
 A custom new tab page built with Turbowarp. Might include some lobotomies.
 ## Features
