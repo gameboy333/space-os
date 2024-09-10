@@ -12,12 +12,6 @@ Set your own shortcuts!
 With local storage, these will stay around for the next time you open the page!
 <img src="/media/shortcutexample.png" width="75%">
 
-AI Chatbot
----
-Powered by Gemma, AskBot will answer your questions!\
-**(SpaceOS is not affiliated with Gemma. AI may generate stuff that is inappropiate. Always fact-check important resources.)**
-<img src="/media/aibot.png" width="75%">
-
 Fun Secrets
 ---
 There are many secrets! Can you find them all?
