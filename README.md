@@ -1,10 +1,29 @@
-![Logo containing a blue planet like Saturn, with yellow stars and the word OS](https://github.com/AGameboyIsNotAvaliable/space-os/blob/main/media/spaceoslogov2.png/?raw=true)
-# Space OS V2
-A custom new tab page built with Turbowarp. Might include some lobotomies.
+<img src="/media/spaceoslogov2.png" width="25%">
+
+# Space OS V4
+A clean custom new tab page built with PenguinMod.
 ## Features
-Search with google and has shortcuts to Google Docs, Sheets, Slides, and Youtube.\
-![Image of a new tab containg search engine, go to button, and buttons to the 4 google products above](https://github.com/AGameboyIsNotAvaliable/space-os/blob/main/media/spaceos.png/?raw=true)
+Search with Google and shortcuts to Google Docs, Sheets, Slides, and Youtube.
+---
+<img src="/media/sposv4.png" width="75%">
+
+Set your own shortcuts!
+---
+With local storage, these will stay around for the next time you open the page!
+<img src="/media/shortcutexample.png" width="75%">
+
+AI Chatbot
+---
+Powered by Gemma, AskBot will answer your questions!\
+**(SpaceOS is not affiliated with Gemma. AI may generate stuff that is inappropiate. Always fact-check important resources.)**
+<img src="/media/aibot.png" width="75%">
+
+Fun Secrets
+---
+There are many secrets! Can you find them all?
+<img src="/media/happyeaster.png" width="75%">
 ## Credits
-@psyclownyt - URL encoding system/inspiration [Check out his own one!](https://github.com/PSYclownYT/scratch-os)\
-[Turbowarp](https://turbowarp.org/) - Used to create this project\
-All background images used go to their respective owners and copyright.
+[PSYClown](https://github.com/PSYclownYT) - Google Search URL encoding system/inspiration [Check out his own one!](https://github.com/PSYclownYT/scratch-os)\
+[PenguinMod](https://penguinmod.com) - The Scratch Mod this project is built on.\
+[Turbowarp](https://turbowarp.org/) - Used to create this project prior to V4.\
+**I do not own any background images. All background images used go to their respective owners and copyright. Images with Creative Common Licenses were considered at the time of addition.**
